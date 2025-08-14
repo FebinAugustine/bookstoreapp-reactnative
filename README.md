@@ -1,6 +1,6 @@
 <h1 align="center">📚 BookWorm – Full‑Stack React Native App 🚀</h1>
 
-![Demo App](/frontend/assets/images/screenshot-for-readme.png)
+![Demo App](/frontend/assets/images/screenshot-for-readme.jpg)
 
 ## 🎯 What You'll Build
 
