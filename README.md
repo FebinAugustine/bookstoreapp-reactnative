@@ -66,7 +66,7 @@ npm run dev
 ## 📱 Run the mobile
 
 ```bash
-cd mobile
+cd frontend
 npm install
 npx expo
 ```
